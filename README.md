@@ -2,7 +2,10 @@
 
 ### About
 
-This is a simple boilerplate template containing basic configuration for a Hugo-based project.
+This is a simple boilerplate template containing basic configuration for a Hugo-based project. <br>
+For basic configuration covered, we have:
+1. assets directory and setup in the `head.html` partial
+2. `baseof.html` setup with `head.html`, `header.html` and `footer.html` imported and to be shared across all pages
 
 ### Requirements
 
